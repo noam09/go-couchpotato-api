@@ -15,3 +15,7 @@ val, err := cp.SearchMovie("big buck bunny")
 
 * Quality selection
 * Check if title exists in library
+
+## License
+
+This is free software under the GPL v3 open source license. Feel free to do with it what you wish, but any modification must be open sourced. A copy of the license is included.
